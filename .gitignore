@@ -1,0 +1,4 @@
+node_modules/
+.portal/
+.lsp/
+.clj-kondo/
